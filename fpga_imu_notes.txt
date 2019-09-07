@@ -1,0 +1,51 @@
+
+# https://github.com/chcbaram/FPGA/tree/master/ZPUino_Exam/ZPUino/MPU6050_KalmanF
+This is an FPGA project with a Kalman filter and iMU going on...
+
+Equations for IMU:
+#http://www.freescale.com/files/sensors/doc/app_note/AN3461.pdf
+
+# Kalman code in IMU.h
+#include <Kalman.h> // Source: https://github.com/TKJElectronics/KalmanFilter
+
+# Kalman Filter mathematics explanation
+http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/
+
+
+
+#############################################
+## zynq + imu search results - 18/9/18
+
+# talk on embedded linux + drones... really good
+https://hackaday.com/2015/10/14/flying-high-with-zynq/
+
+# paper: An analytical review on FPGA based autonomous flight control system for small UAVs
+https://ieeexplore.ieee.org/document/7754907/
+
+# zynq soc article - really good - ardupilot + ocpoc
+http://www.epdtonthenet.net/article/117745/Drone-platform-soars-with-the-Zynq-SoC.aspx
+
+# sources for projects
+https://www.dronecode.org/
+http://ardupilot.org/
+https://aerotenna.com/shop/ocpoc-zynq-mini/
+http://ardupilot.org/copter/docs/build-your-own-multicopter.html
+https://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs
+
+
+
+# research + theory
+https://www.dronezon.com/learn-about-drones-quadcopters/three-and-six-axis-gyro-stabilized-drones/
+https://diydrones.com/profiles/blogs/faq-whats-the-difference
+
+
+# tech to search
+https://www.google.com/search?client=ubuntu&channel=fs&q=apm+2.5&ie=utf-8&oe=utf-8
+https://www.google.com/search?client=ubuntu&hs=Qeh&channel=fs&ei=tjmhW5quLqmBgAbUwaj4BQ&q=pixhawk&oq=pixhawk&gs_l=psy-ab.3..0l10.559.559.0.808.1.1.0.0.0.0.92.92.1.1.0....0...1c..64.psy-ab..0.1.92....0.Aqnuxk8pPBI
+https://www.google.com/search?client=ubuntu&channel=fs&q=beagleboneblack&ie=utf-8&oe=utf-8
+https://arstechnica.com/information-technology/2012/11/a-beautiful-robotic-mind/
+https://www.dji.com/naza-m-v2
+
+
+# ocpoc with altera
+http://linuxgizmos.com/open-source-drone-controller-has-an-fpga-enhanced-brain/

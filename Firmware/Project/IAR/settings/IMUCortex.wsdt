@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>IMUCortex/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>153</Column0><Column1>26</Column1><Column2>27</Column2><Column3>1307796</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>538</ColumnWidth1><ColumnWidth2>217</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1221</ColumnWidth1></Debug-Log><Find-in-Files><ColumnWidth0>335</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-26530-2040</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>IMUCortex</ExpandedNode><ExpandedNode>IMUCortex/Source</ExpandedNode><ExpandedNode>IMUCortex/Source/Nav.c</ExpandedNode><ExpandedNode>IMUCortex/main.c</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-26259-3683</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-26995-22410</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-27781-22207</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-30109-2291</Identity><TabName>Breakpoints</TabName><Factory>Breakpoints</Factory></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Work\IMUCortex\Firmware\Source\main.c</Filename><XPos>0</XPos><YPos>172</YPos><SelStart>4080</SelStart><SelEnd>4080</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Work\IMUCortex\Firmware\Source\adcdriver.c</Filename><XPos>0</XPos><YPos>252</YPos><SelStart>11810</SelStart><SelEnd>11810</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Work\IMUCortex\Firmware\Source\DCM.cpp</Filename><XPos>0</XPos><YPos>375</YPos><SelStart>12746</SelStart><SelEnd>12746</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Work\IMUCortex\Firmware\Source\log.c</Filename><XPos>0</XPos><YPos>39</YPos><SelStart>6950</SelStart><SelEnd>6950</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Work\IMUCortex\Firmware\Source\GPS.cpp</Filename><XPos>0</XPos><YPos>207</YPos><SelStart>6233</SelStart><SelEnd>6233</SelEnd></Tab><ActiveTab>4</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00b2a3d0><key>iaridepm.enu1</key></Toolbar-00b2a3d0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>691</Bottom><Right>226</Right><x>-2</x><y>-2</y><xscreen>917166</xscreen><yscreen>265</yscreen><sizeHorzCX>996919565</sizeHorzCX><sizeHorzCY>266064</sizeHorzCY><sizeVertCX>247826</sizeVertCX><sizeVertCY>695783</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>261</Bottom><Right>922</Right><x>-2</x><y>-2</y><xscreen>924</xscreen><yscreen>263</yscreen><sizeHorzCX>1004348</sizeHorzCX><sizeHorzCY>264056</sizeHorzCY><sizeVertCX>996919565</sizeVertCX><sizeVertCY>266064</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>277416336</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\..\Lib\driverlib9B90.a</file>
+      <file>$PROJ_DIR$\..\..\Source\throttlectrl.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Stellarisware\driverlib\sysctl.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\nav.o</file>
+      <file>$PROJ_DIR$\..\..\Source\ppmdriver.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\servodriver.pbi</file>
+      <file>$PROJ_DIR$\..\..\Source\Telemetry.h</file>
+      <file>$PROJ_DIR$\..\..\Source\DCM.h</file>
+      <file>$PROJ_DIR$\..\..\Source\tick.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\tick.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Stellarisware\driverlib\timer.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\IMUCortex.out</file>
+      <file>$PROJ_DIR$\..\..\Source\integer.h</file>
+      <file>$TOOLKIT_DIR$\inc\ysizet.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Stellarisware\inc\hw_types.h</file>
+      <file>$TOOLKIT_DIR$\inc\string.h</file>
+      <file>$PROJ_DIR$\..\..\Source\nav.h</file>
+      <file>$PROJ_DIR$\..\..\Source\adcdriver.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\log.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\log.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\ThrottleCtrl.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Stellarisware\driverlib\interrupt.h</file>
+      <file>$PROJ_DIR$\..\..\Source\RudderCtrl.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Telemetry.pbi</file>
+      <file>$PROJ_DIR$\..\..\Source\aileronctrl.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\GPS.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\ElevatorCtrl.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_ewarm.o</file>
+      <file>$PROJ_DIR$\..\..\Source\vmath.c</file>
+      <file>$PROJ_DIR$\IMUCortex.icf</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\..\..\Source\log.h</file>
+      <file>$PROJ_DIR$\..\..\Source\gps.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\cordic.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Stellarisware\driverlib\gpio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\tick.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\servodriver.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\ElevatorCtrl.o</file>
+      <file>$PROJ_DIR$\..\..\Source\GPS.c</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Product_string.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\uartdriver.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\uartdriver.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\adcdriver.pbi</file>
+      <file>$PROJ_DIR$\..\..\Source\simulation.cpp</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Stellarisware\inc\hw_timer.h</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tl_in.a</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Product.h</file>
+      <file>$PROJ_DIR$\..\..\Source\config.h</file>
+      <file>$TOOLKIT_DIR$\inc\ycheck.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\vmath.o</file>
+      <file>$PROJ_DIR$\..\..\Source\simulation.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\ppmdriver.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\ymath.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\adcdriver.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\AileronCtrl.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Nav.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\simulation.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\AileronCtrl.o</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\mmc.pbi</file>
+      <file>$PROJ_DIR$\..\..\Source\elevatorctrl.h</file>
+      <file>$TOOLKIT_DIR$\inc\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\yvals.h</file>
+      <file>$PROJ_DIR$\..\..\Source\ppmdriver.c</file>
+      <file>$PROJ_DIR$\..\..\Source\servodriver.h</file>
+      <file>$PROJ_DIR$\..\..\Source\stdafx.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\IMUCortex.bin</file>
+      <file>$PROJ_DIR$\Debug\List\IMUCortex.map</file>
+      <file>$PROJ_DIR$\Debug\Obj\IMUCortex.pbd</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Stellarisware\driverlib\rom.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Stellarisware\driverlib\uart.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Telemetry.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\tff.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\ThrottleCtrl.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Stellarisware\inc\hw_ints.h</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$PROJ_DIR$\..\..\Source\nav.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\cordic.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\simulation.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Stellarisware\inc\hw_gpio.h</file>
+      <file>$PROJ_DIR$\..\..\Source\ElevatorCtrl.c</file>
+      <file>$PROJ_DIR$\..\..\Source\tff.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\GPS.o</file>
+      <file>$PROJ_DIR$\..\..\Source\cordic.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\mmc.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_ewarm.pbi</file>
+      <file>$PROJ_DIR$\..\..\Source\diskio.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Stellarisware\driverlib\adc.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Stellarisware\driverlib\ssi.h</file>
+      <file>$PROJ_DIR$\..\..\Source\simulation.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ppmdriver.o</file>
+      <file>$PROJ_DIR$\..\..\Source\uartdriver.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\RudderCtrl.pbi</file>
+      <file>$PROJ_DIR$\..\..\Source\AileronCtrl.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\tff.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\vmath.pbi</file>
+      <file>$PROJ_DIR$\..\..\Source\vmath.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Stellarisware\inc\lm3s9b90.h</file>
+      <file>$TOOLKIT_DIR$\inc\math.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Stellarisware\driverlib\debug.h</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\DCM.o</file>
+      <file>$PROJ_DIR$\..\..\Source\DCM.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Stellarisware\inc\hw_memmap.h</file>
+      <file>$PROJ_DIR$\..\..\Source\cordic.c</file>
+      <file>$PROJ_DIR$\..\..\Source\DCM.cpp</file>
+      <file>$PROJ_DIR$\..\..\Source\adcdriver.c</file>
+      <file>$PROJ_DIR$\..\..\Source\AileronCtrl.cpp</file>
+      <file>$PROJ_DIR$\..\..\Source\ElevatorCtrl.cpp</file>
+      <file>$PROJ_DIR$\..\..\Source\GPS.cpp</file>
+      <file>$PROJ_DIR$\..\..\Source\log.c</file>
+      <file>$PROJ_DIR$\..\..\Source\main.c</file>
+      <file>$PROJ_DIR$\..\..\Source\mmc.c</file>
+      <file>$PROJ_DIR$\..\..\Source\nav.cpp</file>
+      <file>$PROJ_DIR$\..\..\Source\ppmdriver.cpp</file>
+      <file>$PROJ_DIR$\..\..\Source\RudderCtrl.cpp</file>
+      <file>$PROJ_DIR$\..\..\Source\servodriver.c</file>
+      <file>$PROJ_DIR$\..\..\Source\startup_ewarm.c</file>
+      <file>$PROJ_DIR$\..\..\Source\Telemetry.cpp</file>
+      <file>$PROJ_DIR$\..\..\Source\tff.c</file>
+      <file>$PROJ_DIR$\..\..\Source\ThrottleCtrl.cpp</file>
+      <file>$PROJ_DIR$\..\..\Source\tick.c</file>
+      <file>$PROJ_DIR$\..\..\Source\uartdriver.c</file>
+      <file>$PROJ_DIR$\..\..\Source\vmath.cpp</file>
+      <file>$PROJ_DIR$\Debug\Obj\RudderCtrl.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Stellarisware\driverlib\systick.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\DCM.pbi</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\IMUCortex.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 68</file>
+        </tool>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 67</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 29 0 58 104 37 83 127 72 74 53 78 19 102 85 3 91 36 27 73 9 41 49 76 103 45</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 11 68</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\vmath.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 96</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\GPS.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 83</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\simulation.cpp</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 79</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66 99 48 52 63 30 101 46 62 59 14 106 34 32 16 7 31 47 92 24 61 22 1 90</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 99 48 52 63 30 46 62 59 14 106 34 32 16 7 31 47 92 24 61 22 1 90</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\simulation.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 79</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\ppmdriver.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 91</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 98 75 14 44 106 34 10 2 21 4</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 98 75 14 44 106 34 10 2 21 4</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\IMUCortex.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 55 129 26 25 56 93 23 20 42 33 18 54 60 51 5 86 95 35 40 96</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\nav.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 3</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\ElevatorCtrl.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 37</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\AileronCtrl.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\DCM.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 104</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 129</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\cordic.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 78</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 84</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 84</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\DCM.cpp</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 104</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 129</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66 14 99 48 52 63 30 101 46 62 59 97 17 32 6 47 7</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 14 99 48 52 63 30 46 62 59 97 17 32 6 47 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\adcdriver.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 75 14 106 88 34 10 2 21 47 17</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75 14 106 88 34 10 2 21 47 17</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\AileronCtrl.cpp</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 58</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66 14 99 48 52 63 30 101 46 62 59 17 7 4 16 47 24</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 14 99 48 52 63 30 46 62 59 17 7 4 16 47 24</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\ElevatorCtrl.cpp</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 37</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66 14 99 48 52 63 30 101 46 62 59 17 4 7 32 47 61</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 14 99 48 52 63 30 46 62 59 17 4 7 32 47 61</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\GPS.cpp</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 83</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66 14 92 31 32</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 14 92 31 32</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\log.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 19</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 99 48 52 63 30 101 46 62 59 75 14 106 34 71 2 100 21 17 82 12 7 8 92 4 31</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 99 48 52 63 30 46 62 59 75 14 106 34 71 2 100 21 17 82 12 7 8 92 4 31</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 102</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 99 48 52 63 30 101 46 62 59 75 80 14 106 34 100 2 128 21 47 31 7 32 16 8 87 12 17 4 92 6 65 24 61</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 99 48 52 63 30 46 62 59 75 80 14 106 34 100 2 128 21 47 31 7 32 16 8 87 12 17 4 92 6 65 24 61</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\mmc.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 85</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 106 14 34 70 89 2 87 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 106 14 34 70 89 2 87 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\nav.cpp</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 3</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66 99 48 52 63 30 101 46 62 59 14 6 47 32 82 12 8 16</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 99 48 52 63 30 46 62 59 14 6 47 32 82 12 8 16</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\ppmdriver.cpp</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 91</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66 98 75 14 44 106 34 10 2 21 4</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 98 75 14 44 106 34 10 2 21 4</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\RudderCtrl.cpp</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 127</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 93</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66 14 99 48 52 63 30 101 46 62 59 17 7 4 16 32 47 22</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 14 99 48 52 63 30 46 62 59 17 7 4 16 32 47 22</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\servodriver.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 99 48 52 63 30 101 46 62 59 98 75 14 106 34 10 2 21 24 61 22 4 65</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 99 48 52 63 30 46 62 59 98 75 14 106 34 10 2 21 24 61 22 4 65</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\startup_ewarm.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 86</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\Telemetry.cpp</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 72</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66 99 48 52 63 30 101 46 62 59 14 106 34 32 16 7 31 47 92 24 61 22 1 6</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 99 48 52 63 30 46 62 59 14 106 34 32 16 7 31 47 92 24 61 22 1 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\tff.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 73</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 95</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 15 48 63 30 101 46 62 59 13 39 82 12 87</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15 48 63 30 46 62 59 13 39 82 12 87</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\ThrottleCtrl.cpp</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 74</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66 14 99 48 52 63 30 101 46 62 59 17 7 4 16 47 1</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 14 99 48 52 63 30 46 62 59 17 7 4 16 47 1</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\tick.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 9</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 75 14 106 34 100 2 128 21 87 12 8</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75 14 106 34 100 2 128 21 87 12 8</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\uartdriver.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 41</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 75 106 14 100 34 21 2 71 92</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75 106 14 100 34 21 2 71 92</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\Source\vmath.cpp</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 96</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
